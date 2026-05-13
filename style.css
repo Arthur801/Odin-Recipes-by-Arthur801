@@ -1,0 +1,42 @@
+body {
+    background-color: blanchedalmond;
+    margin: 30px 50px;
+}
+
+.bigTitle {
+    background-color: rgb(148, 113, 71);
+    font-size: xx-large;
+    padding: 20px;
+    margin: 10px auto;
+
+    text-align: center;
+}
+
+.innerTitleh1 {
+    background-color: rgb(148, 113, 71);
+    font-size:larger;
+}
+
+img {
+    margin: 12px 30px;
+}
+
+.recipes {
+    font-size: medium;
+}
+
+p {
+    font-size: medium;
+}
+
+a {
+    text-align: center;
+}
+
+.ingredients {
+    margin:auto;
+}
+
+.steps {
+    margin:auto;
+}
